@@ -1,5 +1,5 @@
 # qec-learn
-Learning quantum computing and quantum error correction.
+Personal project for learning quantum computing and quantum error correction.
 
 Install the [uv](https://docs.astral.sh/uv/) package and project manager: `brew install uv`
 
